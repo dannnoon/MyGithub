@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Github</string>
+    <string name="password">Password</string>
+    <string name="mygithub">MyGithub</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="account_credentials_info">Please enter your Github account credentials to sign in.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="repositories">Repositories</string>
+    <string name="repositories_count">Repositories (%d)</string>
+    <string name="stars">Stars</string>
+    <string name="followers">Followers</string>
+    <string name="followers_count">Followers (%d)</string>
+    <string name="following">Following</string>
+    <string name="following_count">Following (%d)</string>
+</resources>
